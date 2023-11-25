@@ -12,3 +12,5 @@ Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of 
 Refer to [README](docs/source/index.rst) for this sample project documentation. 
 
 Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthedocs.io/en/latest/index.html) for how to add cocotb tests to your project. 
+
+![image](https://github.com/Pranav1723/pes_rca_tapeout/assets/78376336/3d149195-9ecd-4ab4-9333-8e945de6785c)
